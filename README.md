@@ -10,3 +10,8 @@ This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.co
 ## `Lec 2: Introduction to Deep Learning`
 
 * [Lecture Notebook](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%202%20Introduction%20to%20Deep%20Learning/CV_Semantic_Gap_lec1.ipynb)
+
+## `Lec 3: Building blocks of Neural Nets`
+
+* [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%203%20Building%20blocks%20of%20Neural%20Nets/02_Before_we_begin_the_mathematical_building_blocks_of_neural_networks.ipynb)
+* [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%203%20Building%20blocks%20of%20Neural%20Nets/2_1_Effect_of_batch_size.ipynb)
