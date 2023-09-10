@@ -15,3 +15,10 @@ This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.co
 
 * [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%203%20Building%20blocks%20of%20Neural%20Nets/02_Before_we_begin_the_mathematical_building_blocks_of_neural_networks.ipynb)
 * [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%203%20Building%20blocks%20of%20Neural%20Nets/2_1_Effect_of_batch_size.ipynb)
+
+## `Lec 4: Fundamentals of Practical Deep Learning`
+
+* [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/03_Getting_started_with_neural_networks_(No_examples).ipynb)
+* [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/3_1a_Video_DNN.ipynb)
+* [Lecture Notebook 3](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/3_1b_Video_CNN.ipynb)
+* [Lecture Notebook 4](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/04_Fundamentals_of_machine_learning.ipynb)
