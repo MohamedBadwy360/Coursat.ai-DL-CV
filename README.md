@@ -22,3 +22,8 @@ This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.co
 * [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/3_1a_Video_DNN.ipynb)
 * [Lecture Notebook 3](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/3_1b_Video_CNN.ipynb)
 * [Lecture Notebook 4](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%204%20Fundamentals%20of%20Practical%20Deep%20Learning/04_Fundamentals_of_machine_learning.ipynb)
+
+## `Lec 5: Introduction to ConvNets`
+
+* [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/5_1_introduction_to_convnets.ipynb)
+* [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/5_2_using_convnets_with_small_datasets.ipynb)
