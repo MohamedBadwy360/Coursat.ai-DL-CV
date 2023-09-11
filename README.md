@@ -27,3 +27,4 @@ This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.co
 
 * [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/5_1_introduction_to_convnets.ipynb)
 * [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/5_2_using_convnets_with_small_datasets.ipynb)
+* [Assignment](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/Lec_5_Assignment__Dogs_Vs_Cats.ipynb)
