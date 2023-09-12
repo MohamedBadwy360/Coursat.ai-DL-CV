@@ -1,10 +1,10 @@
 # Coursat.ai-DL-CV
 
 This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.com/playlist?list=PLX2D7RnWrLv5f13RK5XvjZ_BMDKBqWriD) Course. This repo is for my personal reference.
-
 This Course is about Deep Learning for Computer Vision.
 
-**Tools:** `Python`, `TensorFlow`, `Google Colab`, `Jupyter Notebooks`
+**Tools:** `Python`, `TensorFlow`, `Google Colab`, `Jupyter Notebooks`.
+
 **Projects:** `Dogs vs Cats Classification`
 
 ---
