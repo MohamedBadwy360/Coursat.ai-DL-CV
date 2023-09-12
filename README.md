@@ -2,6 +2,13 @@
 
 This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.com/playlist?list=PLX2D7RnWrLv5f13RK5XvjZ_BMDKBqWriD) Course. This repo is for my personal reference.
 
+This Course is about Deep Learning for Computer Vision.
+
+**Tools:** `Python`, `TensorFlow`, `Google Colab`, `Jupyter Notebooks`
+**Projects:** `Dogs vs Cats Classification`
+
+---
+
 ## `Lec 1: Introduction to Practical AI for Engineers`
 
 * [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%201%20Introduction%20to%20Practical%20AI%20for%20Engineers/01_IPython.ipynb)
@@ -28,3 +35,8 @@ This Repository contains Notebooks for [Coursat.ai-DL-CV](https://www.youtube.co
 * [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/5_1_introduction_to_convnets.ipynb)
 * [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/5_2_using_convnets_with_small_datasets.ipynb)
 * [Assignment](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%205%20Introduction%20to%20ConvNets/Lec_5_Assignment__Dogs_Vs_Cats.ipynb)
+
+## `Lec 5: Introduction to ConvNets`
+
+* [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%206%20Transfer%20Learning%20and%20Pre-trained%20ConvNets/Keras_Functional_model.ipynb)
+* [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%206%20Transfer%20Learning%20and%20Pre-trained%20ConvNets/5_3_using_a_pretrained_convnet.ipynb)
