@@ -42,3 +42,4 @@ This Course is about Deep Learning for Computer Vision.
 
 * [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%206%20Transfer%20Learning%20and%20Pre-trained%20ConvNets/Keras_Functional_model.ipynb)
 * [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%206%20Transfer%20Learning%20and%20Pre-trained%20ConvNets/5_3_using_a_pretrained_convnet.ipynb)
+* [Assignment](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%206%20Transfer%20Learning%20and%20Pre-trained%20ConvNets/Lec_6_Assignment__Transfer_Learning_on_Dogs_Vs_Cats_Dataset.ipynb)
