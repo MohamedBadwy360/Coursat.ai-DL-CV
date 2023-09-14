@@ -48,3 +48,10 @@ This Course is about Deep Learning for Computer Vision.
 
 * [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%207%20Semantic%20Segmentation%20with%20ConvNets/5_4_visualizing_what_convnets_learn.ipynb)
 * [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%207%20Semantic%20Segmentation%20with%20ConvNets/CAMVID_short.ipynb)
+
+## `Lec 8: Object Detection with ConvNets`
+
+* [Lecture Notebook 1](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%208%20Object%20Detection%20with%20ConvNets/06_Single_Object_Detection.ipynb)
+* [Lecture Notebook 2](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%208%20Object%20Detection%20with%20ConvNets/07_multi_label_classification.ipynb)
+* [Lecture Notebook 3](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%208%20Object%20Detection%20with%20ConvNets/08_multiple_object_detection.ipynb)
+* [Lecture Notebook 4](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV/blob/main/Lec%208%20Object%20Detection%20with%20ConvNets/Training_YOLOv3_object_detection_on_a_custom_dataset_Yolov3.ipynb)
